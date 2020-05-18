@@ -14,6 +14,7 @@ S32 = R1 / (R2 + R1)
 For 16dB coupling and 1dB insertion loss calculated values are:
 
 R1 = 50 Ohm (transmission line impedance), R2 = 230 Ohm, Zo = 6.17 Ohm (Connect 4 parallel 24-25 Ohm)
+
 As a balun transformer use RG405 Coax cable with 44 47 toroids on it.
 
 ![Untitled](https://user-images.githubusercontent.com/61315249/82236528-e35f9100-993c-11ea-8cd1-2eb6c83bc6b7.png)
