@@ -22,3 +22,6 @@ As a balun transformer use RG405 Coax cable with 77, 43 and T46 toroids on it.
 
 ![Untitled](https://user-images.githubusercontent.com/61315249/82236989-a1831a80-993d-11ea-985f-b71b47b31147.png)
 
+![coupling](https://user-images.githubusercontent.com/61315249/82422966-d1d8cf00-9a8b-11ea-9405-b840bdf3217c.png)
+
+![directivity](https://user-images.githubusercontent.com/61315249/82422969-d2716580-9a8b-11ea-84a5-4aa10b4e602f.png)
