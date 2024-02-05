@@ -25,3 +25,10 @@ As a balun transformer use RG405 Coax cable with 77, 43 and T46 toroids on it.
 ![coupling](https://user-images.githubusercontent.com/61315249/82422966-d1d8cf00-9a8b-11ea-9405-b840bdf3217c.png)
 
 ![directivity](https://user-images.githubusercontent.com/61315249/82422969-d2716580-9a8b-11ea-84a5-4aa10b4e602f.png)
+
+# VNA Measurements:
+
+S-parameters with a commercial VNA up to 10 GHz. Coupler was measured as a two port with third port terminated with a high quality termination from the VNA calibration kit.
+
+![directional_coupler](https://github.com/ckflight/RF_DIRECTIONAL_BRIDGE/assets/61315249/c36a93ea-0fbc-4b53-89ea-8a578bf6d872)
+
